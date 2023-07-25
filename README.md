@@ -12,7 +12,7 @@ I'm a commercial pilot turned data analyst from Cape Town, South Africa.
 
 I’ve just completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself🌱 
 
-You'll find all my projects [here](https://www.aarondv.com/projects), as well as on my repos on GitHub, documenting a wide array of experiments & interests that I've explored in data/tech.
+You'll find all my projects [here](https://www.aarondv.com/projects), as well as on my repos on GitHub, documenting the few interests & experiments that I've explored so far in data/tech.
 
 In my spare time, you'll most likely find me doing martial arts, partner dancing, or involved in some other kind of sport 🥏
 
