@@ -1,6 +1,6 @@
 # Aaron de Vroede ✈️
 
-**`Aspiring Data Analyst`**
+**`Data Analyst`**
 
 <br>
 
