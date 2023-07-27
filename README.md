@@ -14,7 +14,7 @@ I’ve just completed a 9-week data science bootcamp with [Le Wagon](https://git
 
 You'll find all my projects [here](https://www.aarondv.com/projects), as well as on my repos on GitHub, documenting some of the interests & experiments that I've explored so far in data/tech.
 
-In my spare time, you'll most likely find me doing martial arts, partner dancing, or involved in some other kind of sport 🥏
+In my spare time, you'll most likely find me doing martial arts, partner dancing, or working on my photography skills 📷
 
 
 <br>
