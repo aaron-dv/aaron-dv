@@ -8,7 +8,7 @@ Hi there!
 
 Welcome to my GitHub :)
 
-I'm a commercial pilot turned data analyst from Cape Town, South Africa.
+I'm a commercial pilot, now turned data analyst, from Cape Town, South Africa.
 
 I’ve just completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself🌱 
 
