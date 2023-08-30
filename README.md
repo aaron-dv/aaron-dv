@@ -8,11 +8,11 @@ Hi there!
 
 Welcome to my GitHub :)
 
-I'm a commercial pilot who's now looking to dive into the world of tech, from Cape Town, South Africa.
+I'm an aspiring software developer from Cape Town, South Africa, who is making a career change from the aviation industry.
 
 I’ve just completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself🌱 
 
-You'll find all my projects [here](https://www.aarondv.com/projects), as well as on my GitHub, documenting some of the interests & experiments that I've explored so far in data/tech.
+You'll find all my projects [here](https://www.aarondv.com/projects), as well as on my GitHub, documenting some of the interests & experiments that I've explored so far in tech.
 
 In my spare time, you'll most likely find me doing martial arts, partner dancing, or working on my photography skills 📷
 
