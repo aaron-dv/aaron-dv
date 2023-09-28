@@ -10,15 +10,15 @@ Welcome to my GitHub :)
 
 I'm an aspiring software developer from Cape Town, South Africa, who is making a career change from the aviation industry.
 
-I’ve just completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself🌱 
+I’ve recently completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself🌱 
 
-You'll find all my projects [here](https://www.aarondv.com/projects), as well as on my GitHub, documenting some of the interests & experiments that I've explored so far in tech.
+You'll find all my projects here, documenting some of the interests & experiments that I've explored so far in tech.
 
 In my spare time, you'll most likely find me doing martial arts, partner dancing, or working on my photography skills 📷
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other places you can find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/aaron-de-vroede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aaron-de-vroede" height="30" width="40" /></a>
 <a href="https://kaggle.com/aaronkelvindevroede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaronkelvindevroede" height="30" width="40" /></a>
@@ -37,7 +37,6 @@ In my spare time, you'll most likely find me doing martial arts, partner dancing
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>      
 </p>
 
 <br>
