@@ -10,7 +10,7 @@ Welcome to my GitHub :)
 
 I'm an aspiring software developer from Cape Town, South Africa, who is making a career change from the aviation industry.
 
-I’ve recently completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself🌱 
+I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself 🌱 
 
 You'll find all my projects here, documenting some of the interests & experiments that I've explored so far in tech.
 
