@@ -1,6 +1,6 @@
 # Aaron de Vroede ✈️
 
-**`Software | Data | Aerospace`**
+**`Software | Data | Aviation`**
 
 <br>
 
