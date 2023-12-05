@@ -12,7 +12,7 @@ I'm an aspiring software developer from Cape Town, South Africa, who is making a
 
 I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself 🌱 
 
-You'll find all my projects here, documenting some of the interests & experiments that I've explored so far in tech.
+You'll find all my projects here, documenting some of my explorations so far in tech.
 
 In my spare time, you'll most likely find me doing martial arts, partner dancing, or working on my photography skills 📷
 
