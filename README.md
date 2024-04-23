@@ -1,6 +1,6 @@
-# Aaron De Vroede ✈️
+# Aaron de Vroede ✈️
 
-**`Software | Aviation`**
+**`Tech | Aviation`**
 
 <br>
 
