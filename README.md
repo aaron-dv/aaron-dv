@@ -4,15 +4,15 @@
 
 <br>
 
-Welcome to my GitHub :)
+Hi there & welcome to my GitHub :)
 
 I'm an aspiring software developer from Cape Town, South Africa, who is making a career change from the aviation industry.
 
-I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am now busy with a few other courses to further upskill myself 🌱 
+I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am currently busy with a few other courses to further upskill myself. 
 
 You'll find all my projects here, documenting some of my explorations in tech so far.
 
-In my spare time, you'll most likely find working on my health/fitness, doing martial arts or partner dancing 🕺
+In my spare time, you'll most likely find me working on my health/fitness, doing martial arts, or partner dancing 🕺
 
 <br>
 
@@ -32,5 +32,3 @@ In my spare time, you'll most likely find working on my health/fitness, doing ma
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
-
-<br>
