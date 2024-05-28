@@ -12,7 +12,7 @@ I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.c
 
 You'll find all my projects here, documenting some of my explorations in tech so far.
 
-In my spare time, you'll most likely find me working on my health/fitness, doing martial arts, or partner dancing 🕺
+In my spare time, you'll most likely find me working on my health/fitness, doing martial arts, or partner dancing.
 
 <br>
 
