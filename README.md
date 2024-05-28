@@ -34,5 +34,3 @@ In my spare time, you'll most likely find working on my health/fitness, doing ma
 </p>
 
 <br>
-
-![Pacman](https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true) 
