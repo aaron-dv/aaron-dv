@@ -1,18 +1,18 @@
 # Aaron de Vroede ✈️
 
-**`Tech | Aviation`**
+**`Software | Data | Aviation`**
 
 <br>
 
-Hi there & welcome to my GitHub :)
+Hi there & welcome to my GitHub portfolio :)
 
-I'm an aspiring software developer from Cape Town, South Africa, who is making a career change from the aviation industry.
+I'm an aspiring software developer from Cape Town, South Africa, who is currently in the process of making a career change from the aviation industry as a commercial pilot.
 
-I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & am currently busy with a few other courses to further upskill myself. 
+I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon), a few courses to polish my Python skills & am now busy with my AWS Cloud Practitioner certification.
 
-You'll find all my projects here, documenting some of my explorations in tech so far.
+You'll find some of my projects here, highlighting my explorations in tech so far.
 
-In my spare time, you'll most likely find me working on my health/fitness, doing martial arts, or partner dancing.
+In my spare time, you'll most likely find me working on my health/fitness, practicing martial arts, or honing my social dancing skills.
 
 <br>
 
