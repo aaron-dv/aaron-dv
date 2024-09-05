@@ -10,9 +10,9 @@ I'm an aspiring developer from Cape Town, South Africa & am currently in the pro
 
 I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon), a few courses to polish my Python skills & am now busy with my AWS Cloud Practitioner certification.
 
-You'll find some of my projects here, highlighting my more technical explorations with coding so far.
+You'll find some of my projects here, highlighting my more technical projects so far.
 
-In my spare time, you'll most likely find me working on my health / fitness, practicing martial arts, or honing my social dancing skills.
+In my spare time, you'll most likely find me working on my health/fitness, practicing martial arts, or honing my social dancing skills.
 
 <br>
 
