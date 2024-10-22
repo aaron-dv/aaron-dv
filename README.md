@@ -4,7 +4,7 @@
 
 <br>
 
-Hi there & welcome to my GitHub portfolio :)
+Hi & welcome to my GitHub portfolio :)
 
 I'm an aspiring developer from Cape Town, South Africa & am currently in the process of making a career change from the aviation industry as a commercial pilot to the world of tech.
 
