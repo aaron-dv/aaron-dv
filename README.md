@@ -8,7 +8,7 @@ Hi there & welcome to my GitHub portfolio 😄
 
 I'm an aspiring data analyst from Cape Town, South Africa & am currently in the process of making a career change from the aviation industry as a commercial pilot to an entry-level role in the world of tech.
 
-I’ve completed a 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon), a few courses to polish up my Python skills & am now busy with my AWS Cloud Practitioner certification.
+I’ve completed an intensive 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon), a few courses to polish up my Python skills & am now busy with my AWS Cloud Practitioner certification.
 
 You'll find some of my projects here, highlighting my more technical adventures in tech so far.
 
