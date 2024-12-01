@@ -4,7 +4,7 @@
 
 <br>
 
-Hi there & welcome to my GitHub portfolio 😄
+Hi there & welcome to my GitHub portfolio!
 
 I'm an aspiring data analyst from Cape Town, South Africa (relocating to Sydney, Australia in the near future) & am currently in the process of making a career change from the aviation industry as a commercial pilot to an entry-level role in the world of tech.
 
