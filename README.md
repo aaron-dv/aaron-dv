@@ -1,6 +1,6 @@
 # Aaron de Vroede ✈️
 
-**`Tech | Aviation`**
+**`Data Analyst | Pilot`**
 
 <br>
 
