@@ -6,7 +6,7 @@
 
 Hi there & welcome to my GitHub portfolio!
 
-I'm an aspiring data analyst & am currently in the process of making a career change from the aviation industry as a commercial pilot to an entry-level role in the world of tech.
+I'm a data executive who has recently made a career change from the aviation industry as a commercial pilot into the world of tech.
 
 I’ve completed an intensive 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & a few courses to polish up my Python skills.
 
