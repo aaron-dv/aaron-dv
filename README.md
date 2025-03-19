@@ -1,6 +1,6 @@
 # Aaron de Vroede ✈️
 
-**`Data Executive | Pilot`**
+**`Data Executive`**
 
 <br>
 
