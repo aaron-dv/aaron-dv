@@ -4,17 +4,20 @@
 
 <br>
 
-Hi there & welcome to my GitHub portfolio!
+### Hey there 👋 Welcome to my GitHub!
 
-I'm a data professional who has made a career change from the aviation industry as a commercial pilot into the world of tech.
+I'm a data professional with a background that’s taken me from the cockpit to code — making the jump from being a commercial pilot to working hands-on with data in the world of tech.
 
-I’ve completed an intensive 9-week data science bootcamp with [Le Wagon](https://github.com/LeWagon) & a few courses to polish up my Python skills.
+After completing an intensive 9-week Data Science Bootcamp with [Le Wagon](https://github.com/LeWagon), I dove straight into the world of SQL, Python, and advanced data visualization (Matplotlib & Seaborn).
 
-You'll find some of my projects here, highlighting my more technical adventures in tech so far.
+Along the way, I’ve developed a knack for solving complex analytical problems and optimising data workflows — all with an eye for detail and a curiosity-driven mindset.
 
-In my spare time, you'll most likely find me working on my health/fitness, on a mission to make the perfect pour-over coffee, or honing my social dancing skills.
+You’ll find a collection of projects here that showcase my technical journey so far — from exploratory data analysis to machine learning workflows.
 
-<br>
+Outside of tech, you'll most likely find me working on my fitness, on a mission to make the perfect pour-over coffee, or honing my social dancing skills.
+
+Thanks for stopping by!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
