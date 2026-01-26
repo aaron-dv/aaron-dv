@@ -8,7 +8,7 @@
 
 I'm a data professional with a background that’s taken me from the cockpit to code - making the jump from being a commercial pilot to working hands-on with data in the world of tech.
 
-After completing an intensive 9-week Data Science Bootcamp with [Le Wagon](https://github.com/LeWagon), I've furthered my knowledge of SQL, Python, and advanced data visualisation (Matplotlib & Seaborn).
+After completing an intensive 9-week Data Science Bootcamp with [Le Wagon](https://github.com/LeWagon), I've furthered my knowledge of SQL, Python, and data visualisation (Matplotlib & Seaborn).
 
 Along the way, I’ve developed a knack for solving complex analytical problems and optimising data workflows - all with an eye for detail and a curiosity-driven mindset.
 
