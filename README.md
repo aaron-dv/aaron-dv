@@ -1,10 +1,11 @@
-# Aaron de Vroede ✈️
+# Aaron de Vroede
 
 **`Data Professional`**
 
 <br>
 
-### Hey there 👋 Welcome to my GitHub!
+### Hey there 👋 
+Welcome to my GitHub!
 
 I'm a data professional with a background that’s taken me from the cockpit to code - making the jump from being a commercial pilot to working hands-on with data in the world of tech.
 
