@@ -2,23 +2,23 @@
 
 **`Data Professional | SQL Server | Python | Data Operations | Aspiring Data Engineer`**
 
-# 👋 Hey there
+## 👋 Hey there
 
 Welcome to my GitHub!
 
 I'm a Brisbane-based data professional with experience working in SQL Server environments, supporting data loading, transformation, validation, troubleshooting, and workflow automation using Python and PowerShell.
 
-After transitioning from aviation into tech, I completed a Data Science bootcamp at Le Wagon and have since worked in Data Operations, supporting business-critical data systems and client databases.
+After transitioning from aviation into tech, I completed a Data Science bootcamp at Le Wagon and have since worked in Data Operations, supporting business-critical data systems and client data workflows.
 
 My interests include:
 
-* Data Engineering
-* SQL Development
-* Data Integration & ETL
-* Data Quality & Validation
-* Workflow Automation
+- Data Engineering
+- SQL Development
+- Data Integration & ETL
+- Data Quality & Validation
+- Workflow Automation
 
-Check out my repositories for projects spanning data analysis, SQL, Python, automation, and data engineering.
+Check out my repositories for projects spanning data analysis, SQL, Python, automation, and my ongoing progression toward data engineering.
 
 Outside of tech, you'll usually find me training, making specialty coffee, freediving, or social dancing.
 
