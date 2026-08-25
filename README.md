@@ -20,7 +20,7 @@ My interests include:
 
 Check out my repositories for projects spanning data analysis, SQL, Python, automation, and my ongoing progression toward data engineering.
 
-Outside of tech, you'll usually find me training, making specialty coffee, freediving, or social dancing.
+Outside of tech, you'll usually find me training, playing basketball, freediving, or social dancing.
 
 Thanks for stopping by!
 
