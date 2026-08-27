@@ -1,6 +1,6 @@
 # Aaron de Vroede
 
-**`Data Professional | SQL Server | Python | Data Operations | Aspiring Data Engineer`**
+**`Data Professional | SQL Server | Python | Data Operations | Data Quality`**
 
 ## 👋 Hey there
 
