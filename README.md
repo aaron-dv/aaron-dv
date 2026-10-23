@@ -1,6 +1,6 @@
 # Aaron de Vroede
 
-**`Data Operations | SQL Server | Data Quality | Automation`**
+**`SQL & Data Engineering | ETL Pipelines | Aviation & Geospatial Data`**
 
 ## 👋 Hey there
 
