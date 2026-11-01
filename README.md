@@ -70,13 +70,6 @@ Thanks for stopping by!
          height="40"/>
   </a>
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
-         alt="AWS"
-         width="40"
-         height="40"/>
-  </a>
-
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
          alt="Git"
