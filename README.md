@@ -65,6 +65,13 @@ Thanks for stopping by!
 
   <a href="https://www.microsoft.com/en-au/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"
+         alt="Power BI"
+         width="40"
+         height="40"/>
+  </a>
+
+   <a href="https://www.microsoft.com/en-au/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
          alt="Microsoft Excel"
          width="40"
          height="40"/>
