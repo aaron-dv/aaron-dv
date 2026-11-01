@@ -8,7 +8,7 @@ Welcome to my GitHub!
 
 I'm a Brisbane-based data professional with experience working in SQL Server environments, supporting data loading, transformation, validation, troubleshooting, and workflow automation using Python and PowerShell.
 
-After transitioning from aviation into tech, I completed a Data Science bootcamp at Le Wagon and have since worked in Data Operations, supporting business-critical data systems and client data workflows.
+After transitioning from aviation into tech, I completed a Data Science bootcamp at Le Wagon and have since worked in Data Operations supporting business-critical data systems and client data workflows, and also use Excel, Power BI and Python to analyse datasets and communicate findings.
 
 My interests include:
 
